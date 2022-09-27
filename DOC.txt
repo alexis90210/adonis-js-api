@@ -1,0 +1,9 @@
+1/ make controller : node ace make:controller Eleves
+
+2/ make middleware : node ace make:middleware AuthUser
+
+3/ install view : npm i @adonisjs/view
+
+4/ configure view : node ace configure @adonisjs/view
+
+5/ create view : node ace make:view home
